@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'IT800'
                   releaseName: 'IT800 v__VERSION__'
-                  releaseBody: '0.0.1'
+                  releaseBody: 'IT800 初始版本'
                   releaseDraft: false
                   prerelease: false
                   publish: true
